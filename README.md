@@ -1,6 +1,7 @@
 # SSL-Server
 
 Summary of Client, Artemis Financial, and Software Security Project
+
 Client Overview: Artemis Financial, a financial services firm, required a secure solution to encrypt its long-term archived files and protect sensitive client data from potential cyber threats. They needed an encryption protocol that met industry standards and ensured compliance with financial regulations like HIPAA and PCI-DSS.
 
 During the assessment, I thoroughly examined the existing codebase to identify vulnerabilities and areas for improvement. By running security audits, I pinpointed potential risks, such as susceptibility to SQL injection and cross-site scripting (XSS) attacks, and implemented measures to address them. This proactive approach ensured that Artemis Financial’s sensitive data was protected and improved their overall compliance standing. Secure coding is critical for maintaining trust with clients, protecting sensitive data, and safeguarding the company’s reputation, which are essential in a security-sensitive industry.
